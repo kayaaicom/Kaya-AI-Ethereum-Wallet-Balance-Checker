@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/134784255?v=4" alt="Fotoğraf">
+</p>
+
 # Kaya AI Ethereum Wallet Balance Checker
 Kaya AI Ethereum Wallet Balance Checker is an application that checks the balances of Ethereum wallets on the Ethereum network. This tool allows users to query the balances of specified Ethereum wallet addresses. All you need is a list of wallet addresse
 
@@ -13,6 +17,8 @@ Then you need to run it on the localhost and port I defined in the script. For t
 "This will allow you to create a node on the specified port on localhost."
 
 And bingo! You can run the app and check the addresses. Thanks to me you don't need to use API... :)
+
+![Profil Picture](https://i.ibb.co/fDqbzrN/Ekran-g-r-nt-s-2023-07-21-225300.png)
 
 ## **Usage:**
 
