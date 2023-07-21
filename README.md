@@ -2,7 +2,13 @@
   <img src="https://avatars.githubusercontent.com/u/134784255?v=4" alt="Fotoğraf">
 </p>
 
-Donate Me: 1KAYAaiM83LP6BuviwsHRjvkXepMhy4nop
+<a href="https://www.buymeacoffee.com/kayaaicom"> 
+<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="150"></a>
+
+OR
+<br>
+<img src="https://bitcoin.org/img/icons/logotop.svg?1687792074" width="100" alt="BTC">: 1KAYAaiM83LP6BuviwsHRjvkXepMhy4nop
+<br>
 
 # Kaya AI Ethereum Wallet Balance Checker
 Kaya AI Ethereum Wallet Balance Checker is an application that checks the balances of Ethereum wallets on the Ethereum network. This tool allows users to query the balances of specified Ethereum wallet addresses. All you need is a list of wallet addresse
